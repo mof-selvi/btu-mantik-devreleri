@@ -1,1 +1,1 @@
-# btu-mantik-devreleri
+# btu bilgisayar mühendisliği mantik devreleri
